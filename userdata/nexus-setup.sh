@@ -1,3 +1,7 @@
+https://github.com/chvinodgcp5010/CICD-project-Nexus-and-Sonarqube/tree/cd-jenkins
+
+
+
 #!/bin/bash
 yum install java-1.8.0-openjdk.x86_64 wget -y   
 mkdir -p /opt/nexus/   
